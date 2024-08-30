@@ -107,8 +107,34 @@ The top 10 states in India with the highest CAGR for total vehicle sales from FY
       •	Delhi has a CAGR of 22.88%, showing significant growth in vehicle sales.
       •	Other states like Rajasthan, Gujarat, Assam, Mizoram, Arunachal Pradesh, and Haryana also feature on the list, with CAGRs ranging from 21.50% to 17.68%.
 
-
 Third Key Insights Conclusion:The data indicates BMW India is the fastest-growing 4-wheeler maker, and Meghalaya leads in vehicle sales growth. This shows BMW's success in gaining market share, while states like Meghalaya and Goa are becoming important markets for vehicle sales, offering good opportunities for expansion.
 
+**4th Key Insights:**
+![image](https://github.com/user-attachments/assets/609f0f44-a7f9-453f-a059-7f4cc9e209e3)
+
+The highest sales were recorded in March, making it the peak season for EV sales during this period.
+The lowest sales occurred in June, marking it as the low season for EV sales.
+
+Fourth Key Insights Conclusion: This analysis shows that March is the busiest month for EV sales, while June has the lowest sales. Knowing this helps manufacturers plan better, focusing on March to boost sales and being ready for slower sales in June.
+
+**5th Key Insights:**
+![image](https://github.com/user-attachments/assets/ba67028b-07b1-48e0-841b-86bb17078011)
+
+The projected number of electric vehicles (EVs) by state for the year 2030, along with the penetration rate (PR%).
+      •	Maharashtra is expected to have the highest number of EV sales, with 13.35 million units and a penetration rate of 6.49%.
+      •	Kerala follows with 11.78 million projected EV sales and a penetration rate of 6.64%.
+      •	Gujarat and Karnataka also show strong projections, with 8.65 million and 8.38 million EV sales, respectively.
+
+The revenue growth rates for 4-wheelers and 2-wheelers across various states from 2022 to 2024 and 2023 to 2024.
+      •	Punjab shows a significant spike in revenue growth, particularly in 4-wheelers, indicating strong market potential in that state.
+      •	Himachal Pradesh and Tamil Nadu also exhibit notable growth in 2-wheeler and 4-wheeler sales.
+      •	The growth varies significantly across states, with some like Delhi and Madhya Pradesh showing moderate growth, while others like Andhra Pradesh and Karnataka also display potential for substantial market expansion.
+
+   5th Key Insights Conclusion: This analysis highlights Maharashtra, Kerala, Gujarat, and Karnataka are expected to lead in EV sales by 2030. Punjab and Himachal Pradesh are also set for strong revenue growth in 2-wheeler and 4-wheeler sales from 2022 to 2024. This information helps manufacturers focus on high-growth regions for market expansion.
+
+
+  **Tools Used**
+   •	Microsoft Power BI
+   •	Microsoft Power Point
 
 
