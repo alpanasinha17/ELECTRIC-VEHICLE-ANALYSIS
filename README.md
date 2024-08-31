@@ -1,7 +1,10 @@
 # ELECTRIC-VEHICLE-ANALYSIS
 This Project is part of of CodeBasics Resume Challenge 12.
+
 ##Video Presentation Link: 
-DashBoard Link : 
+
+DashBoard Link : https://app.powerbi.com/view?r=eyJrIjoiMDFhYjEyMWMtNDJjOC00YzNjLWFjOGItNjFhMmMyN2QxZWQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 
 This repository includes the code, datasets, and insights from my analysis for Electric Vehicle , AtliQ Motors company. This work was part of the #codebasicsResumeChallenge12 at AtliQ Motor.
 
