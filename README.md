@@ -17,7 +17,7 @@ To ensure a successful entry into the Indian market, Bruce Haryali, the head of 
 # TASK 
 My task is to provide valuable insights to an automotive company planning to launch electric vehicles in India.
 
-## Project Analysis Critera
+## Project Analysis Criteria
 
 **Preliminary Research** is divided into two key sections: *Sales Insights* and *projected Insights*.
 1.	**EV Sales Insights:**
@@ -29,10 +29,10 @@ o	Compared insights between Delhi and Karnataka.
 o	Calculated the CAGR (Compound Annual Growth Rate).
 o	Identified peak and low seasons for EV sales.
 
-3.	**Projected Insights:**
+**3.Projected Insights:**
    
-o	I estimated the projected number of EV sales by 2030.
-o	Analyzed the revenue growth rate for 4-wheeler and 2-wheeler EVs in India, comparing 2022 vs. 2024 and 2023 vs. 2024.
+   o	I estimated the projected number of EV sales by 2030.
+   o	Analyzed the revenue growth rate for 4-wheeler and 2-wheeler EVs in India, comparing 2022 vs. 2024 and 2023 vs. 2024.
 
 **Secondary Research** focuses on important actions and strategic decisions:
 
